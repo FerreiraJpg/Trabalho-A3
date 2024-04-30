@@ -6,7 +6,5 @@ Após isso você deve iniciar o Docker, utilizando o comando "docker compose up 
 Criar um arquivo na pasta inicial chamada ".env" e alterar o que for nescessário com base no arquivo ".env.exemple"
 
 
--TODO
-- [] ATUALIZAR ARQUIVO REGISTER.SPEC.TS
 
 
