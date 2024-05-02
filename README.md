@@ -4,6 +4,7 @@
 Você deve baixar a pasta do projeto, entrar nela e no CMD utilizar o comando "npm i" para instalar todas as dependências.
 Após isso você deve iniciar o Docker, utilizando o comando "docker compose up -d"
 Criar um arquivo na pasta inicial chamada ".env" e alterar o que for nescessário com base no arquivo ".env.exemple"
+Para iniciar o projeto basta utilizar o comando "npm run start:dev" no terminal
 
 
 ## Requisitos funcionais:
