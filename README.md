@@ -10,11 +10,13 @@ Para iniciar o projeto basta utilizar o comando "npm run start:dev" no terminal
 ## Requisitos funcionais:
 - [x] Deve ser possível se cadastrar
 - [x] Deve ser possível se autenticar
-- [ ] Deve ser possível obter o perfil de um usuário logado
+- [x] Deve ser possível obter o perfil de um usuário logado
 - [ ] Deve ser possível cadastrar um novo aluno
 - [ ] Deve ser possível cadastrar um novo responsável
 - [ ] Deve ser possível buscar alunos pelo nome 
 - [ ] Deve ser possível buscar responsáveis pelo nome
+- [ ] Deve ser possível buscar alunos pelo ID 
+- [ ] Deve ser possível buscar responsáveis pelo ID
 - [ ] Deve ser possível atualizar informações dos alunos
 - [ ] Deve ser possível atualizar informações dos responsáveis
 - [ ] Deve ser possível atribuir um responsável a um aluno
